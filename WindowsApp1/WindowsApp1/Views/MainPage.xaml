@@ -18,7 +18,7 @@
         <controls:PageHeader x:Name="pageHeader" Content="Main Page"
                              RelativePanel.AlignLeftWithPanel="True"
                              RelativePanel.AlignRightWithPanel="True"
-                             RelativePanel.AlignTopWithPanel="True" Background="Red"/>
+                             RelativePanel.AlignTopWithPanel="True" Background="Oranzova"/>
 
         <TextBlock x:Name="mainTextBlock" Margin="16,12,0,0"
                    RelativePanel.AlignLeftWithPanel="True"
